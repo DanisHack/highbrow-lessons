@@ -7,3 +7,4 @@ by [Sabrina Rose](http://gohighbrow.com/team/sabrina-rose/)
 Do you need to speak real, native-level English for work, travel, study, or life? This course will take you step-by-step through the best study tips to successfully speak English. If you follow all the steps in this course, you will have created a super efficient and effective personalized study plan for yourself so that you can start speaking like a native. It’s time to speak real English confidently and fluently.
 
 - [Episode 1](episode-01.md)
+- [Episode 2](episode-02.md)
