@@ -13,6 +13,6 @@ Do you need to speak real, native-level English for work, travel, study, or life
 - [Episode 5](episode-05.md)
 - [Episode 6](episode-06.md)
 - [Episode 7](episode-07.md)
-- [Episode 8]()
-- [Episode 9]()
+- [Episode 8](episode-08.md)
+- [Episode 9](episode-09.md)
 - [Episode 10]()
