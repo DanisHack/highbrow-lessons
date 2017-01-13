@@ -8,8 +8,8 @@ If you can't write, you can't succeed. Communication is the most important part 
 
 The Basics of English Writing will first explain basic grammar concepts and then offer in-depth writing guidelines and tips.
 
-- [Episode 1]()
-- [Episode 2]()
+- [Episode 1](episode-01.md)
+- [Episode 2](episode-02.md)
 - [Episode 3]()
 - [Episode 4]()
 - [Episode 5]()
