@@ -10,7 +10,7 @@ The Basics of English Writing will first explain basic grammar concepts and then
 
 - [Episode 1](episode-01.md)
 - [Episode 2](episode-02.md)
-- [Episode 3]()
+- [Episode 3](episode-03.md)
 - [Episode 4]()
 - [Episode 5]()
 - [Episode 6]()
