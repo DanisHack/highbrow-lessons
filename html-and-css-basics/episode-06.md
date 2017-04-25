@@ -1,6 +1,6 @@
 # Episode #6 of 10 - CSS
 
-In this lesson, you will learn how to use CSS (cascading style sheets) to add styles to your webpage such as colors, font styles, alignments, and much more. It is a best practice to place all your style definitions in a separate .css file, but you can also include them right on your HTML page by using the style element within the head. For simplicity's sake, this is what we will do now. 
+In this lesson, you will learn how to use CSS (cascading style sheets) to add styles to your webpage such as colors, font styles, alignments, and much more. It is a best practice to place all your style definitions in a separate .css file, but you can also include them right on your HTML page by using the style element within the head. For simplicity's sake, this is what we will do now.
 
 Let's build on our hello-world.html page from the previous lessons and add a `<style>` tag inside the head:
 
@@ -14,7 +14,7 @@ Note that the CSS code is separated from the HTML code on CodePen @ http://codep
 
 Let's take a closer look at lines 1-3 of our CSS code. The selector on line 1 is body, so we know that this section of the code will target the body element of our webpage (i.e., everything inside the `<body></body>` tags). Inside our braces `{ }` is a single definition: background-color: lightgray. This tells the web browser to change the background color of the body to light gray from the default color white. When you view the page after adding this rule, you will see that the webpage now has a light gray background color instead of white.
 
-Let’s add some styles for the other elements on the page! Here’s a breakdown of the rest of our CSS code:
+Let's add some styles for the other elements on the page! Here's a breakdown of the rest of our CSS code:
 
 **Lines 4-6**
 font-size: 100px tells the web browser to make all the h1 elements on the page 100 pixels large.

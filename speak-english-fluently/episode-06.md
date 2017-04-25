@@ -12,7 +12,7 @@ If you are already at a low intermediate level or higher in English, it's time t
 
 You are worried about 1st person vs. 3rd person (or is it 3rd person plural?) and wondering if you need to use simple past or past progressive…or is it past perfect?
 
-You get so worried that you aren't using the right rules that **you don't even notice that the person you are talking to is already talking about something else** and has asked you TWO NEW questions! Aaaah! 
+You get so worried that you aren't using the right rules that **you don't even notice that the person you are talking to is already talking about something else** and has asked you TWO NEW questions! Aaaah!
 
 Phew!
 
@@ -30,7 +30,7 @@ Podcasts are similar to live radio shows, but you can download them and listen t
 
 **Step 1: Choose a couple podcasts that will teach you something in English**
 
-Go to the iTunes store ([you can download the program for free on your computer here](http://www.apple.com/itunes/)—just click the Download button on the top right-hand corner of the screen). Of if you have an iPhone or Mac, the program should already be on your device. 
+Go to the iTunes store ([you can download the program for free on your computer here](http://www.apple.com/itunes/)—just click the Download button on the top right-hand corner of the screen). Of if you have an iPhone or Mac, the program should already be on your device.
 
 Once you open the program, type the following into the search box:
 
@@ -48,7 +48,7 @@ Once you open the program, type the following into the search box:
 
 **Step 2: Upload a couple podcast episodes onto a device you can take with you**
 
-Subscribe to a few podcast shows that seem interesting to you. Then put a few different episodes on your phone, iPad, iPod, or MP3 player. Or maybe you always have your laptop with you; use your laptop then. Choose the best device for you and your lifestyle 
+Subscribe to a few podcast shows that seem interesting to you. Then put a few different episodes on your phone, iPad, iPod, or MP3 player. Or maybe you always have your laptop with you; use your laptop then. Choose the best device for you and your lifestyle
 
 **Step 3: Find a time that works for you to listen to your chosen podcast episodes**
 

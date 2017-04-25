@@ -14,11 +14,11 @@ Because really, this is how humans learn the best.
 
 Do I remember what I learned in my one and only Japanese class? I remember maybe a few moments.
 
-But what I really remember are the moments with friends, coworkers, and neighbors and traveling and meeting wonderful people while I was in Japan. Having conversations, learning about their lives, learning about the culture—all in Japanese. 
+But what I really remember are the moments with friends, coworkers, and neighbors and traveling and meeting wonderful people while I was in Japan. Having conversations, learning about their lives, learning about the culture—all in Japanese.
 
 **Bring what you love to talk about and what you love to do into your English studies too.**
 
-What topics do you LOVE talking about? Your business sector? Traveling? Personal development? New tech? Yoga and mindfulness? Maybe even a certain breed of dog? Whatever the topic, you can get a magazine subscription in English, listen to English podcasts, and sign up to get updates and emails from English-language blogs on the subject. Let's look into how you can use that last option: blogs. 
+What topics do you LOVE talking about? Your business sector? Traveling? Personal development? New tech? Yoga and mindfulness? Maybe even a certain breed of dog? Whatever the topic, you can get a magazine subscription in English, listen to English podcasts, and sign up to get updates and emails from English-language blogs on the subject. Let's look into how you can use that last option: blogs.
 
 **Today we'll look at blogs as a way to have an automatic reminder to "study/not study" English while doing and learning about something you love anyway!**
 
@@ -34,21 +34,21 @@ I've even linked to it, so no excuses!
 
 **Step 2: Type in your favorite pastime/hobby/work-related subject + blog (in English)**
 
-For example, maybe you love running. You would type in and search for "running blog" or even "best running blogs." 
+For example, maybe you love running. You would type in and search for "running blog" or even "best running blogs."
 
 **Step 3: Look around at the top five or ten results and subscribe to two or three blogs you'd like to read again**
 
-Most blogs will send out a newsletter about once a week, and you will get free weekly English practice sent right to your inbox. 
+Most blogs will send out a newsletter about once a week, and you will get free weekly English practice sent right to your inbox.
 
 **Step 4 (Bonus Successful Speaker Step!): Improve your spoken English by reading part or all of the articles of your choice out loud**
 
 Read part of the newsletter or part of an article **out loud** every time a blog sends you an email update.
 
-Try this right now: pick a few sentences from one of the articles you just read and read them out loud right now. 
+Try this right now: pick a few sentences from one of the articles you just read and read them out loud right now.
 
 ---
 
-This last lesson is the most important if you want to keep improving, studying, and speaking English: Remember to follow your bliss. 
+This last lesson is the most important if you want to keep improving, studying, and speaking English: Remember to follow your bliss.
 
 **Bliss. Bliss is happiness, joy, and love all together. You have probably experienced bliss while doing the things you love to do. Remember to do what you love. In English, of course!**
 

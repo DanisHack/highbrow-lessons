@@ -40,4 +40,4 @@ There were no workmen **in sight!** (= she couldn't see them)
 
 I wonder if this counts as **my morning jog**. (= when you go running in the morning to keep fit and healthy)
 
-Finally, the end of her problems! Everything has to go well when she gets to the office, right? 
+Finally, the end of her problems! Everything has to go well when she gets to the office, right?

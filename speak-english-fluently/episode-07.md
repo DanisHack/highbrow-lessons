@@ -36,7 +36,7 @@ Be very specific. The more specific the better. Tell people about yourself. Tell
 	and Japanese food! Send me a personal message if this sounds like what you are
 	looking for.
 
-Look how specific I am! This will bring the right kind of people to me, as they already know what I am looking for and they already know a little bit about me. Get out your notebook or journal and draft your post. Add the following details: 
+Look how specific I am! This will bring the right kind of people to me, as they already know what I am looking for and they already know a little bit about me. Get out your notebook or journal and draft your post. Add the following details:
 
 - Name:
 - Age:

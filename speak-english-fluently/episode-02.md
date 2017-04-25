@@ -2,7 +2,7 @@
 
 Today, you’re going to take your English goal from your lesson yesterday and start working toward making it a reality. Today’s lesson will give you your first actionable study tip. If you missed yesterday’s email, you should go back to the first email in this series and complete the goal-setting exercise.
 
-You know WHY your goals are important now? Good! Let’s look at one of the best ways to prepare for actually speaking in the real world. 
+You know WHY your goals are important now? Good! Let’s look at one of the best ways to prepare for actually speaking in the real world.
 
 **One simple (yet very effective) way you can prepare to speak English is to create and use personal transcripts.**
 
@@ -10,7 +10,7 @@ A transcript is a written record of something that was said, be it a monologue (
 
 Think about it: what good is studying English if you don’t use it? And what good is studying dialogues that other people have created (like in your textbooks) when they are not personalized for you?
 
-That’s why I recommend creating your own personalized transcripts. Maybe you have an important board meeting coming up. Maybe you will be meeting with some international clients soon. **Practicing with transcripts will help you feel so much more prepared.** 
+That’s why I recommend creating your own personalized transcripts. Maybe you have an important board meeting coming up. Maybe you will be meeting with some international clients soon. **Practicing with transcripts will help you feel so much more prepared.**
 
 And after the conversation that you practiced for, you should feel like this:
 
@@ -39,7 +39,7 @@ Coffee guy: No problem. Soy, then?
 Me: Yes, soy please.
 …
 …
-Etc…. 
+Etc….
 
 You can make the dialogue as long or as short as you’d like. Just get started on one.
 
@@ -47,7 +47,7 @@ You can make the dialogue as long or as short as you’d like. Just get started 
 
 This is an important step, because you don’t want to study something that is incorrect.
 
-First, I’ll give you some free options. There are lots of English learner communities and forums where you can post your questions and short dialogues and ask for corrections. Here are a few I recommend: 
+First, I’ll give you some free options. There are lots of English learner communities and forums where you can post your questions and short dialogues and ask for corrections. Here are a few I recommend:
 
 - https://www.usingenglish.com/
 - http://www.wordreference.com/

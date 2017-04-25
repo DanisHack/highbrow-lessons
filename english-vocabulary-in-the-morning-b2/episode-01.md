@@ -9,7 +9,7 @@
 
 	Each episode has around seven key words (scientists have proven that
 	this is the number of new things we can learn at a time) connected with
-	the topic of morning vocabulary, and also a few bonus words, all on the 
+	the topic of morning vocabulary, and also a few bonus words, all on the
 	B2 level.
 
 	Have fun learning!
@@ -42,9 +42,9 @@ A **pillow** is the soft thing you put your head on when you sleep.
 
 The **bed sheet** is the thin piece of fabric you put on your bed when you sleep.
 
-If you **oversleep**, you sleep longer than you intended to, and you might be late for work or school. 
+If you **oversleep**, you sleep longer than you intended to, and you might be late for work or school.
 
-## Bonus words 
+## Bonus words
 
 "Oh no," she thought and started **frantically** looking for it on the nightstand.(= in a worried, upset way)
 
@@ -55,4 +55,4 @@ It fell on the floor and **shattered to pieces**. (= broke into small pieces)
 The idea was so **tempting** (= attractive) that she **drifted off**. (= fell asleep)
 
 
-Tomorrow we will learn what happened in the kitchen! And it won't be good.... 
+Tomorrow we will learn what happened in the kitchen! And it won't be good....

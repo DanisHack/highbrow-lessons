@@ -14,7 +14,7 @@ Here are some suggestions to overcome writer's block and conquer the blank space
 
 Here are some guaranteed ways to keep that space blank:
 
-**Waiting for inspiration.** No, you don't need the heavens to open—you just need to get to work. 
+**Waiting for inspiration.** No, you don't need the heavens to open—you just need to get to work.
 
 **Procrastinating until you feel ready to write.** You'll never feel ready if you don't want to. Decide on a time to write and get to work.
 

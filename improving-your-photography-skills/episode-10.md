@@ -24,8 +24,8 @@ Spare batteries are useful, especially if you are travelling and are away from p
 
 ### Wrap up
 
-So you’ve got the basics of photography nailed in ten lessons. Get shooting with your camera. Remember the basic rules, and then go break them. I hope you have fun, and I’d love to see your work! 
+So you’ve got the basics of photography nailed in ten lessons. Get shooting with your camera. Remember the basic rules, and then go break them. I hope you have fun, and I’d love to see your work!
 
 ---
 
-Follow me on Instagram [@juliarevitt](https://www.instagram.com/juliarevitt/) to see my latest images—photographs from the mountains of the French Alps to the London cityscape, from coffee shops to running shoes and everything in between. 
+Follow me on Instagram [@juliarevitt](https://www.instagram.com/juliarevitt/) to see my latest images—photographs from the mountains of the French Alps to the London cityscape, from coffee shops to running shoes and everything in between.

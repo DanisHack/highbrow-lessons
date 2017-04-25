@@ -40,4 +40,4 @@ Luckily, the battery wasn't dead **after all**. (= you use this phrase when some
 
 She **backed** into the road. (= **reversed** the car, made it go back)
 
-What will Susan do now without the car? Find out tomorrow! 
+What will Susan do now without the car? Find out tomorrow!

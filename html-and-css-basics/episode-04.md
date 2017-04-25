@@ -6,7 +6,7 @@ In previous lessons, we created our first webpage. Now let's add some links and 
 
 ## Hyperlinks
 
-The `<a>` tag allows you to display a link to another webpage. The `<a>` tag on line 16 is nested inside a `<p>` tag, and it has an attribute. To refresh your memory, HTML elements can have attributes, which provide more information about the element. Here we have an href attribute whose value is the web address you want to link to. In this case, `href="http://www.gohighbrow.com"` tells the web browser to take the user to http://www.gohighbrow.com when they click on the link. The text inside the <a> tag "Click here to visit Highbrow" is what will be displayed as a link in your web browser. 
+The `<a>` tag allows you to display a link to another webpage. The `<a>` tag on line 16 is nested inside a `<p>` tag, and it has an attribute. To refresh your memory, HTML elements can have attributes, which provide more information about the element. Here we have an href attribute whose value is the web address you want to link to. In this case, `href="http://www.gohighbrow.com"` tells the web browser to take the user to http://www.gohighbrow.com when they click on the link. The text inside the <a> tag "Click here to visit Highbrow" is what will be displayed as a link in your web browser.
 
 Check out line 19. Instead of a web address in the href attribute, you can also use `"mailto:YourAddress@gmail.com"`. This code will display a link that automatically opens up a new email addressed to whatever email you specify. In this case, it will open up a new email addressed to go@gohighbrow.com.
 

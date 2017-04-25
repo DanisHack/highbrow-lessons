@@ -6,7 +6,7 @@ As we mentioned in lesson one, the head contains elements that are not necessari
 
 ## The Title Element
 
-While not required in HTML5, the title element should never be left out. The text inside the `<title>` start tag and `</title>` end tag defines the title of your webpage, which should be no more than 70 characters. This will be displayed on your browser tab, when you bookmark a page, or when someone shares your page on their social network. The `<title>` element is extremely important for search engine optimization. For example, Google will display your webpage’s title in the search results and will use keywords in the title to rank your webpage. 
+While not required in HTML5, the title element should never be left out. The text inside the `<title>` start tag and `</title>` end tag defines the title of your webpage, which should be no more than 70 characters. This will be displayed on your browser tab, when you bookmark a page, or when someone shares your page on their social network. The `<title>` element is extremely important for search engine optimization. For example, Google will display your webpage’s title in the search results and will use keywords in the title to rank your webpage.
 
 ## Metadata
 
