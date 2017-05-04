@@ -1,4 +1,4 @@
-# Episode #06 of 10 - Mortgages Pt. 2
+# Episode #06 of 12 - Mortgages Pt. 2
 
 ![](episode-06.jpg)
 

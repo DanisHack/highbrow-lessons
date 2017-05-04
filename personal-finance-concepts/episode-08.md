@@ -1,4 +1,4 @@
-# Episode #08 of 10 - Credit Score
+# Episode #08 of 12 - Credit Score
 
 ![](episode-08.jpg)
 

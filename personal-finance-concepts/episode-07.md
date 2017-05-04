@@ -1,4 +1,4 @@
-# Episode #07 of 10 - Diversification
+# Episode #07 of 12 - Diversification
 
 ![](episode-07.jpg)
 

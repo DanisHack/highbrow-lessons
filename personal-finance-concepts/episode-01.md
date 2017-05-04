@@ -1,4 +1,4 @@
-# Episode #01 of 10 - Compound Interest
+# Episode #01 of 12 - Compound Interest
 
 ![](episode-01.jpg)
 

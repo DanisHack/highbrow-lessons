@@ -16,3 +16,5 @@ It can be difficult knowing where to begin with personal finance. What if you ju
 - [Episode 8](episode-08.md)
 - [Episode 9](episode-09.md)
 - [Episode 10](episode-10.md)
+- [Episode 11](episode-11.md)
+- [Episode 12](episode-12.md)

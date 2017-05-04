@@ -1,4 +1,4 @@
-# Episode #02 of 10 - Track Your Spending
+# Episode #02 of 12 - Track Your Spending
 
 ![](episode-02.jpg)
 

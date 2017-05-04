@@ -1,4 +1,4 @@
-# Episode #09 of 10 - Leasing a Car
+# Episode #09 of 12 - Leasing a Car
 
 ![](episode-09.jpg)
 

@@ -1,4 +1,4 @@
-# Episode #10 of 10 - Planning Your Spending
+# Episode #10 of 12 - Planning Your Spending
 
 ![](episode-10.jpg)
 

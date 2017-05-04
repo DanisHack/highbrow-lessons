@@ -1,4 +1,4 @@
-# Episode #05 of 10 - Mortgages Pt. 1
+# Episode #05 of 12 - Mortgages Pt. 1
 
 ![](episode-05.jpg)
 

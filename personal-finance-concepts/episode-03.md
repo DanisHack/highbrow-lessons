@@ -1,4 +1,4 @@
-# Episode #03 of 10 - Emergency Fund
+# Episode #03 of 12 - Emergency Fund
 
 ![](episode-03.jpg)
 

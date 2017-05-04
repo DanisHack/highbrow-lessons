@@ -1,4 +1,4 @@
-# Episode #04 of 10 - Inflation
+# Episode #04 of 12 - Inflation
 
 ![](episode-04.jpg)
 
