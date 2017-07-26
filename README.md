@@ -10,3 +10,4 @@ Get smarter with 5-minute lessons delivered to your inbox every morning
 - [English vocabulary – in the morning (B2)](english-vocabulary-in-the-morning-b2/README.md)
 - [Improving your photography skills](improving-your-photography-skills/README.md)
 - [Personal finance concepts](personal-finance-concepts/README.md)
+- [Weight management](weight-management/README.md)
