@@ -13,4 +13,4 @@
 - [Personal finance concepts](personal-finance-concepts/README.md)
 - [Weight management](weight-management/README.md)
 - [Intro to iOS development](intro-to-ios-development/README.md)
-- [How to learn a foreign language](intro-to-ios-development/README.md)
+- [How to learn a foreign language](how-to-learn-a-foreign-language/README.md)
